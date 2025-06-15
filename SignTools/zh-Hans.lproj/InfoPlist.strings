@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  SignTools
+
+  Created by MacXK on 2025/6/15.
+*/
+
+"NSAppleEventsUsageDescription" = "SignTools需要访问系统事件以完成IPA签名和处理操作";
+"NSDesktopFolderUsageDescription" = "SignTools需要访问桌面文件夹以处理IPA文件";
+"NSDocumentsFolderUsageDescription" = "SignTools需要访问文档文件夹以处理IPA文件";
+"NSDownloadsFolderUsageDescription" = "SignTools需要访问下载文件夹以处理IPA文件"; 
